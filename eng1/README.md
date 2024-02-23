@@ -6,5 +6,7 @@ A partir do recorte acima, Engenharia de Software possui diferenças em relaçã
 Em relação ao tempo ele está diretamente ligado com o avanço e as mudanças que ocorrem no meio tecnológico, já que com grande avanço nessa área, seus produtos tornam-se cada vez mais evoluídos, a escala consiste na quantidade de corporações que serão beneficiadas com determinada tecnologia, por fim trade-off é um 'jogo de perde e ganha', refere-se a uma situação em que é necessário fazer uma escolha entre duas opções mútuas, onde ganhos em uma área implicam perdas em outas.
 - 3 exemplos de trade-off:
   ->Linux e Windowns;
+
   ->Consumo presente ou futuro;
+
   ->Hardware - Clássico custo ou desempenho.

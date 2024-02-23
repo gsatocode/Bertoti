@@ -5,6 +5,7 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 A partir do recorte acima, Engenharia de Software possui diferenças em relação a Programação. Na Engenharia de Software é necessário estar mais preocupado em relação ao tempo e suas mudanças e com a escala e a eficiência tanto para softwares e quanto para as empresas, além disso é tomada decisões mais complexas com resultado de maior de risco. Já Programação é uma parte da Engenharia de Software, já que a partir dela é gerada um novo software, tendo em vista essa diferença fica mais claro delimitar tarefas de programação (Desenvolvimento) e Engenharia de Software (Desnvolvimento, Modificação e Manutenção).
 Em relação ao tempo ele está diretamente ligado com o avanço e as mudanças que ocorrem no meio tecnológico, já que com grande avanço nessa área, seus produtos tornam-se cada vez mais evoluídos, a escala consiste na quantidade de corporações que serão beneficiadas com determinada tecnologia, por fim trade-off é um 'jogo de perde e ganha', refere-se a uma situação em que é necessário fazer uma escolha entre duas opções mútuas, onde ganhos em uma área implicam perdas em outas.
 - 3 exemplos de trade-off:
+- 
   ->Linux e Windowns;
 
   ->Consumo presente ou futuro;

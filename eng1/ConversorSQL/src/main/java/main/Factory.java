@@ -27,7 +27,6 @@ public class Factory {
     }
 
     public String getPrompt( )  {
-        // cria um objeto
 
         ChatLanguageModel model = LocalAiChatModel.builder()
                 .baseUrl("http://localhost:1234/v1")

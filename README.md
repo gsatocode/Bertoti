@@ -1,10 +1,10 @@
 ## Antipattern
 
-![antipattern](https://github.com/user-attachments/assets/3f81671e-bb98-4f9b-9e99-1161dac18bd2)
+![antipattern](https://github.com/user-attachments/assets/d2821b29-3cbe-4aca-a59b-716822555e7c)
 
 
 ## Pattern
-![pattern](https://github.com/user-attachments/assets/1582a8b8-532e-411d-af11-2f7c0c0178f5)
+![pattern](https://github.com/user-attachments/assets/6279bd62-404f-46ac-b4e2-9ee1ab211b79)
 
 
 ## Observer

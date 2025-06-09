@@ -1,6 +1,6 @@
 ## Antipattern
 
-![antipattern](https://github.com/user-attachments/assets/a0556dc4-b354-4f31-97a4-50dc4d7616bd)
+![antipattern](![image](https://github.com/user-attachments/assets/3f81671e-bb98-4f9b-9e99-1161dac18bd2))
 
 
 ## Pattern

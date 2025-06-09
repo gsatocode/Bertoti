@@ -4,7 +4,7 @@
 
 
 ## Pattern
-![pattern](https://github.com/user-attachments/assets/c3d668fa-3d0a-48eb-87af-a1622f92c9c7)
+![pattern](https://github.com/user-attachments/assets/1582a8b8-532e-411d-af11-2f7c0c0178f5)
 
 
 ## Observer

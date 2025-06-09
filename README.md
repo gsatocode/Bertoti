@@ -7,4 +7,5 @@
 ![pattern](https://github.com/user-attachments/assets/47ba7741-bf46-4592-83ba-781df3230433)
 
 ## Observer
-![observer](https://github.com/user-attachments/assets/ad4e9924-8963-4996-bd1a-80df91d8d4de)
+![observer](https://github.com/user-attachments/assets/1f19b31a-2ecd-4cfa-9680-bc019e784f51)
+

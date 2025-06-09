@@ -5,3 +5,6 @@
 
 ## Pattern
 ![pattern](https://github.com/user-attachments/assets/7e301e87-fc21-46df-a205-db3eccc34096)
+
+## Pattern
+![observer](https://github.com/user-attachments/assets/ad4e9924-8963-4996-bd1a-80df91d8d4de)
